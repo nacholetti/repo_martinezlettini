@@ -1,0 +1,126 @@
+    1  ls
+    2  git clone 
+    3  git clone https://github.com/nacholetti/Curso.Prep.Henry.git
+    4  n
+    5  git config -global user.name "NachoLettini"
+    6  git config --global user.name "Ignacio Tomas Martinez Lettini"
+    7  git config --global user.mail nachomlettini@gmail.com
+    8  git --version
+    9  git-config --global user.name "Ignacio Lettini"
+   10  git config--globar user.name "ignacio lettini"
+   11  git config --global user.name "ignacio lettin"
+   12  git config --global nachomlettini@gmail.com
+   13  git config --global user.mail nachomlettini@gmail.com
+   14  git init
+   15  git push
+   16  git add.
+   17  git commit -m "hola como va"
+   18  git config --global user.name "IgnacioLettini"
+   19  git config --global user.mail "nachomlettini@gmail.com"
+   20  pwd
+   21  cd OneDrive
+   22  pwd
+   23  cd Escritorio
+   24  cd ReactJS
+   25  cd JoyeriaLettini
+   26  git remote -v
+   27  git status
+   28  git add .
+   29  git commit -m "es el primero"
+   30  git remote add origin https://github.com/nacholetti/joyerialettini.git
+   31  git push <remote> --delete <branch>
+   32  rio/ReactJS/JoyeriaLettini (master)
+   33  $ git push <remote> --delete <branch
+   34  rio/ReactJS/JoyeriaLettini (master)
+   35  $ git push <remote> --delete <branch
+   36  git remote add origin https://github.com/nacholetti/joyerialettini2022.git
+   37  git remote -v
+   38  git remote rm origin
+   39  git remote -v
+   40  git remote add origin https://github.com/nacholetti/joyerialettini2022.git
+   41  git push -u origin main
+   42  git branch -M main
+   43  git push -u origin main
+   44  npm install react-bootstrap bootstrap
+   45  git clone https://github.com/nacholetti/A311Ignaciolettini
+   46  git clone ^[[200~https://github.com/nacholetti/A311Martinezlettini.git~
+   47  git clone https://github.com/nacholetti/A311Martinezlettini.git
+   48  git add subida de archivos py
+   49  got commit -m "primeros archivos"
+   50  git add
+   51  git .
+   52  git push
+   53  git init
+   54  git add README.md
+   55  git commit -m "Primer commit"
+   56  git add .
+   57  git commit -m "Primer commit"
+   58  git remote add origin https://github.com/nacholetti/A311Martinezlettini.git
+   59  git push -u origin main
+   60  git push
+   61  git push u-
+   62  git push -u origin main
+   63  git add .
+   64  git commit -m "primero"
+   65  git branch -M main
+   66  git remote add origin https://github.com/nacholetti/A311Martinezlettini.git
+   67  git push -u origin main
+   68  git remote add origin https://github.com/nacholetti/A311Martinezlettini.git
+   69  git branch -M main
+   70  git push -u origin main
+   71  git init
+   72  git add.
+   73  git commit -m "Primero"
+   74  git add.
+   75  git add ,
+   76  git add .
+   77  git branch -M main
+   78  git remote add origin [200~ 
+   79  git remote add origin https://github.com/nacholetti/A311Martinezlettini.git
+   80  git push
+   81  git push -u origin main
+   82  git push -u
+   83  git add .
+   84  git clone https://github.com/nacholetti/MartinezLettini.git
+   85  git commit -m "testeo"
+   86  git push
+   87  git add .
+   88  git add.
+   89  git push
+   90  git init
+   91  git remote add origin https://github.com/nacholetti/A311Martinezlettini.git
+   92  git status
+   93  git add .
+   94  git add.
+   95  git add .
+   96  git status
+   97  git commit -m "Primer commit"
+   98  git push origin master
+   99  ls
+  100  git clone https://github.com/upszot/UTN-FRA_SO_onBording.git 
+  101  ls
+  102  cd UTN-FRA_SO_onBording
+  103  ls
+  104  cat README.md
+  105  clear
+  106  cd ..
+  107  git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+  108  cd UTN-FRA_SO_Vagrant
+  109  ls
+  110  ls -l
+  111  ls -la
+  112  cd VagrantFiles/
+  113  cd VagrantFiles
+  114  cd VagrantFiles/
+  115  cd VagrantFiles
+  116  ls
+  117  cd 1_equipo
+  118  ls
+  119  cat Vagrantfile
+  120  vagrant up
+  121  vagrant ssh
+  122  git clone https://github.com/nacholetti/repo_martinezlettini.git
+  123  ls
+  124  cd repo_martinezlettini
+  125  ls
+  126  history > historial.txt
